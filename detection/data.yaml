@@ -1,0 +1,5 @@
+train: C:/Users/deema/Desktop/new/dataset/images/train  # Path to training images
+val: C:/Users/deema/Desktop/new/dataset/images/val      # Path to validation images
+
+nc: 4  # Number of classes
+names: ['trafficlight', 'stop', 'speedlimit', 'crosswalk']  # Class names
